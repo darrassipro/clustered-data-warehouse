@@ -22,4 +22,5 @@ public class Deal {
     public void setDealTimestamp(String t) { this.dealTimestamp = t; }
     public double getAmount() { return amount; }
     public void setAmount(double a) { this.amount = a; }
+
 }
